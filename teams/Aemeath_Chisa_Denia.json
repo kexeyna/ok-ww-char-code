@@ -6,9 +6,28 @@
     "Chisa",
     "Denia"
   ],
-  "totalCodes": 2,
+  "totalCodes": 3,
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Aemeath_Chisa_Denia.json",
   "codes": [
+    {
+      "filename": "Aemeath_Chisa_Denia_楽山&Rosa-panda_1.0.0.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1%26Rosa-panda_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1%26Rosa-panda_1.0.0.zip",
+      "name": "Aemeath_Chisa_Denia",
+      "description": "非椰果只打4R保下限脚本（基于楽山原版爱达千17s启动微调）\n配置条件：\n爱弥斯 6链，千咲 0链，达妮娅 0链（更低未测试，理论上0链可用，轴并不依赖小爱一链）\n效率面板：爱弥斯 120%，千咲 120%，达妮娅 130%（更低不推荐，循环可能会卡住）\n位置：一号位爱弥斯，二号位达妮娅，三号位千咲\n轴体说明：本版本主要解决楽山原版爱达千17s脚本在部分机型启动轴千咲协奏打不满导致延奏丢失的问题，定位为非椰果向保下限脚本，优先保证流程完整跑通。实测启动轴一般在23秒以内完成（受机型和怪物站位影响会有浮动）。\n本机实测复现成功率过半，流程完整度较高\n，出分容易。建议确保网络稳定，关闭游戏内插帧，保持稳定帧率。",
+      "author": "楽山&Rosa-panda",
+      "version": "1.0.0",
+      "team": "Aemeath, Chisa, Denia",
+      "members": [
+        "Aemeath",
+        "Chisa",
+        "Denia"
+      ],
+      "size": 108792,
+      "sizeFormatted": "106.24 KB",
+      "timestamp": 1788047264,
+      "modifiedAt": "2026-08-29T23:47:44.000Z"
+    },
     {
       "filename": "Aemeath_Chisa_Denia_楽山_1.0.0.zip",
       "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
