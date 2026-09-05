@@ -2,8 +2,8 @@
   "repository": "ok-oldking/ok-ww-char-code",
   "pageUrl": "https://okwwcharcode.ok-script.com",
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams.json",
-  "totalTeams": 7,
-  "totalCodes": 10,
+  "totalTeams": 17,
+  "totalCodes": 23,
   "teams": [
     {
       "team": "Aemeath, Augusta, Baizhi",
@@ -77,15 +77,34 @@
         "Chisa",
         "Denia"
       ],
-      "totalCodes": 1,
+      "totalCodes": 3,
       "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Aemeath_Chisa_Denia.json",
       "codes": [
+        {
+          "filename": "Aemeath_Chisa_Denia_楽山&Rosa-panda_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1%26Rosa-panda_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1%26Rosa-panda_1.0.0.zip",
+          "name": "Aemeath_Chisa_Denia",
+          "description": "非椰果只打4R保下限脚本（基于楽山原版爱达千17s启动微调）\n配置条件：\n爱弥斯 6链，千咲 0链，达妮娅 0链（更低未测试，理论上0链可用，轴并不依赖小爱一链）\n效率面板：爱弥斯 120%，千咲 120%，达妮娅 130%（更低不推荐，循环可能会卡住）\n位置：一号位爱弥斯，二号位达妮娅，三号位千咲\n轴体说明：本版本主要解决楽山原版爱达千17s脚本在部分机型启动轴千咲协奏打不满导致延奏丢失的问题，定位为非椰果向保下限脚本，优先保证流程完整跑通。实测启动轴一般在23秒以内完成（受机型和怪物站位影响会有浮动）。\n本机实测复现成功率过半，流程完整度较高\n，出分容易。建议确保网络稳定，关闭游戏内插帧，保持稳定帧率。",
+          "author": "楽山&Rosa-panda",
+          "version": "1.0.0",
+          "team": "Aemeath, Chisa, Denia",
+          "members": [
+            "Aemeath",
+            "Chisa",
+            "Denia"
+          ],
+          "size": 108792,
+          "sizeFormatted": "106.24 KB",
+          "timestamp": 1788047264,
+          "modifiedAt": "2026-08-29T23:47:44.000Z"
+        },
         {
           "filename": "Aemeath_Chisa_Denia_楽山_1.0.0.zip",
           "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
           "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
           "name": "Aemeath_Chisa_Denia",
-          "description": "爱达千三光翼椰果轴\n实机已几乎跑通（最后一个R2我未能找到完美的时间线），复现几率非常低，对于设备环境要求高，网络要求高，非常看BOSS和转火，只有在几乎全程打宝箱的情况下，几率相对高一些，实战价值不高。",
+          "description": "爱达千17S启动+轮椅循环\n样本：61爱 01千 01达\n共效：爱125 千139 达135（仅为参考）\n位置：一号位千 二号位达 三号位爱\n实机已跑通 复现难度中等 主要问题为启动轴受个人环境不同，容易失败。最好确保网络无波动 关闭游戏内插帧 能够稳定60帧 \n需要说明，OK的轴并非完美，只要流程跑的通，不损失过多伤害即可视为接受，如果在意流程完美程度和伤害，请尝试手操。\nTips：如果发现启动轴最后爱弥斯变奏入场强化E没有亮起就重开\n如果发现启动轴爱弥斯仅在达尼娅R2后变奏一次，但强化E亮起 可以继续 但是会损失后续伤害 \n如果发现启动轴最后爱弥斯两次变奏入场成功，且强化E亮起，但是在R1释放前灭了，也视为失败，需要重开\n成功启动的标志为启动轴爱弥斯两次变奏入场且R1后能够接上强化E 此为完美复现\n如果失败，可以开关一下自动战斗的开关，可以更快的进行下次尝试",
           "author": "楽山",
           "version": "1.0.0",
           "team": "Aemeath, Chisa, Denia",
@@ -94,10 +113,29 @@
             "Chisa",
             "Denia"
           ],
-          "size": 93459,
-          "sizeFormatted": "91.27 KB",
-          "timestamp": 1787170469,
-          "modifiedAt": "2026-08-19T20:14:29.000Z"
+          "size": 104220,
+          "sizeFormatted": "101.78 KB",
+          "timestamp": 1787839862,
+          "modifiedAt": "2026-08-27T14:11:02.000Z"
+        },
+        {
+          "filename": "Aemeath_Chisa_Denia_楽山_1.0.1.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Aemeath_Chisa_Denia_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+          "name": "Aemeath_Chisa_Denia",
+          "description": "爱达千三光翼5R2椰果轴\n样本：61爱 01达 01千\n爱125 千139 达135（仅为参考）\n位置：一号位千 二号位达 三号位爱\n实机已跑通（启动+循环，由于转火未能实现最后一个R2），复现难度极高，需要宝箱怪启动，网络无波动，在关闭游戏内插帧的情况下，需要稳定60帧及以上\nTips：如果发现启动轴最后爱弥斯变奏入场强化E没有亮起就重开\n如果发现启动轴爱弥斯仅在达尼娅R2后变奏一次，但强化E亮起 需要重开\n如果发现启动轴最后爱弥斯两次变奏入场成功，且强化E亮起，但是在R1释放前灭了，也视为失败，需要重开\n成功启动的标志为启动轴爱弥斯两次变奏入场且R1后能够接上强化E 此为完美复现\n如果失败，可以开关一下自动战斗的开关，可以更快的进行下次尝试",
+          "author": "楽山",
+          "version": "1.0.1",
+          "team": "Aemeath, Chisa, Denia",
+          "members": [
+            "Aemeath",
+            "Chisa",
+            "Denia"
+          ],
+          "size": 93760,
+          "sizeFormatted": "91.56 KB",
+          "timestamp": 1787841084,
+          "modifiedAt": "2026-08-27T14:31:24.000Z"
         }
       ]
     },
@@ -185,6 +223,166 @@
       ]
     },
     {
+      "team": "Augusta, Iuno, Shorekeeper",
+      "slug": "Augusta_Iuno_Shorekeeper",
+      "members": [
+        "Augusta",
+        "Iuno",
+        "Shorekeeper"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Augusta_Iuno_Shorekeeper.json",
+      "codes": [
+        {
+          "filename": "Augusta_Iuno_Shorekeeper_楽山_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Augusta_Iuno_Shorekeeper_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Augusta_Iuno_Shorekeeper_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "name": "Augusta_Iuno_Shorekeeper",
+          "description": "日月守2旋1升轮椅轴\n样本：21日01月11守\n共效：日125月128守275（仅供参考 月最好135左右）\n位置：一号位守 二号位月 三号位日\n实机已跑通 复现难度视boss而定 宝箱开很稳定 但是遇见粪怪 基本上只能打3R 角色机制导致自动战斗无法稳定实现4R \nTips：对于奥古斯塔的流程增加了保底机制。如果在奥古斯塔的流程中被肘，可以点按鼠标右键激活保底机制，代码将不在走固定流程而是尽快打满能量EEER2离场。也可以在此期间自行手动释放技能普攻等，但是后果就是后续的奥古斯塔的轴大概率会乱，所以选什么怪开请自行斟酌。",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Augusta, Iuno, Shorekeeper",
+          "members": [
+            "Augusta",
+            "Iuno",
+            "Shorekeeper"
+          ],
+          "size": 60649,
+          "sizeFormatted": "59.23 KB",
+          "timestamp": 1788385431,
+          "modifiedAt": "2026-09-02T21:43:51.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Camellya, Sanhua, Verina",
+      "slug": "Camellya_Sanhua_Verina",
+      "members": [
+        "Camellya",
+        "Sanhua",
+        "Verina"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Camellya_Sanhua_Verina.json",
+      "codes": [
+        {
+          "filename": "Camellya_Sanhua_Verina_cm&01椿、6散华+1千古、1维里奈+1奇幻变奏_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Camellya_Sanhua_Verina_cm%2601%E6%A4%BF%E3%80%816%E6%95%A3%E5%8D%8E%2B1%E5%8D%83%E5%8F%A4%E3%80%811%E7%BB%B4%E9%87%8C%E5%A5%88%2B1%E5%A5%87%E5%B9%BB%E5%8F%98%E5%A5%8F_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Camellya_Sanhua_Verina_cm%2601%E6%A4%BF%E3%80%816%E6%95%A3%E5%8D%8E%2B1%E5%8D%83%E5%8F%A4%E3%80%811%E7%BB%B4%E9%87%8C%E5%A5%88%2B1%E5%A5%87%E5%B9%BB%E5%8F%98%E5%A5%8F_1.0.0.zip",
+          "name": "Camellya_Sanhua_Verina",
+          "description": "01椿、6散华+1千古、1维里奈+1奇幻变奏\n在【实时触发】→【自动战斗】处不要开奶妈首发。\n循环轴：\n椿首发贪个e，然后散华erz，维里奈eqra打满协奏椿变奏入场。\n椿协奏打到一半换散华q，椿再变奏入场一日花+r，再打满输出。\n最后敬佩作者开发的工具和牛逼的代码，我都不知道我改的会不会反而负优化。",
+          "author": "cm&01椿、6散华+1千古、1维里奈+1奇幻变奏",
+          "version": "1.0.0",
+          "team": "Camellya, Sanhua, Verina",
+          "members": [
+            "Camellya",
+            "Sanhua",
+            "Verina"
+          ],
+          "size": 10832,
+          "sizeFormatted": "10.58 KB",
+          "timestamp": 1787901120,
+          "modifiedAt": "2026-08-28T07:12:00.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Cantarella, Mornye, Phrolova",
+      "slug": "Cantarella_Mornye_Phrolova",
+      "members": [
+        "Cantarella",
+        "Mornye",
+        "Phrolova"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Cantarella_Mornye_Phrolova.json",
+      "codes": [
+        {
+          "filename": "Cantarella_Mornye_Phrolova_楽山_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Cantarella_Mornye_Phrolova_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Cantarella_Mornye_Phrolova_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "name": "Cantarella_Mornye_Phrolova",
+          "description": "弗坎莫轮椅轴\n样本：21弗01坎10莫（精5异响）\n共效：弗100坎150莫260（仅供参考）\n位置：一号位莫宁 二号位坎 三号位弗洛洛\n实机已跑通 复现难度中 主要问题在于可能打不出最后一个一日谱 只能4谱 对于面对一些粪怪 可以在操控弗洛洛或者坎的时候 手动闪避一下 不影响流程 但是一旦手动闪避接入 一般情况下是打不出5谱的 \n注意：由于本次对于弗和坎的强化技能一些图像颜色检测是基于本人环境截图 有可能会在一些人的显示环境里识别不够稳定",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Cantarella, Mornye, Phrolova",
+          "members": [
+            "Cantarella",
+            "Mornye",
+            "Phrolova"
+          ],
+          "size": 88904,
+          "sizeFormatted": "86.82 KB",
+          "timestamp": 1788216993,
+          "modifiedAt": "2026-08-31T22:56:33.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Cartethyia, Ciaccona, Rover",
+      "slug": "Cartethyia_Ciaccona_Rover",
+      "members": [
+        "Cartethyia",
+        "Ciaccona",
+        "Rover"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Cartethyia_Ciaccona_Rover.json",
+      "codes": [
+        {
+          "filename": "Cartethyia_Ciaccona_Rover_楽山_1.0.1.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Cartethyia_Ciaccona_Rover_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Cartethyia_Ciaccona_Rover_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+          "name": "Cartethyia_Ciaccona_Rover",
+          "description": "卡夏风双下落4R2轴 \n2026/9/2优化：小卡第二次下落流程E与闪避之间增加0.2S间隔\n样本：31卡01夏61风主（血誓盟约） \n共效：卡提126 夏空132 风主172（共效仅供参考） \n位置：一号位卡提 二号位夏空 三号位风主 \n实机已跑通 复现难度中等 角色机制问题以及怪物机制问题，被肘大概率需要重开 虽然在部分流程中增加了保底机制 但是双下落的容错不够多，大概率会爆轴 为了增加容错时间把大卡最后的A5给取消掉了 相比于标准双下落会损失一些伤害 \nTips：F进入战斗后应该快速点击鼠标中键，加速锁定怪物 如果需要重开 请在实时触发中找到自动战斗开关 手动开关一次，以用来重置流程 请确保网络环境流畅，不跳ping。如果流程一直失败，请考虑关闭游戏内插帧，在原生环境下稳定60帧及以上再测试（可以使用N卡插帧）",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Cartethyia, Ciaccona, Rover",
+          "members": [
+            "Cartethyia",
+            "Ciaccona",
+            "Rover"
+          ],
+          "size": 58614,
+          "sizeFormatted": "57.24 KB",
+          "timestamp": 1788314382,
+          "modifiedAt": "2026-09-02T01:59:42.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Chisa, Suisui, Yangyang: Xuanling",
+      "slug": "Chisa_Suisui_Yangyang_Xuanling",
+      "members": [
+        "Chisa",
+        "Suisui",
+        "Yangyang: Xuanling"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Chisa_Suisui_Yangyang_Xuanling.json",
+      "codes": [
+        {
+          "filename": "Chisa_Suisui_Yangyang_Xuanling_楽山_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Chisa_Suisui_Yangyang_Xuanling_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Chisa_Suisui_Yangyang_Xuanling_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "name": "Chisa_Suisui_Yangyang:_Xuanling",
+          "description": "秧千穗轮椅轴\n一号位穗穗 二号位千咲 三号位秧秧\n样本为01秧01千00穗（精5奇幻）秧秧共效为145 千咲为139 穗穗为270实际效率应该可以不需要这么高 只需要达到标准练度即可\n实机跑通率高，增加了部分保底机制，但由于boss攻击模式不同，仍有可能出现问题。",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Chisa, Suisui, Yangyang: Xuanling",
+          "members": [
+            "Chisa",
+            "Suisui",
+            "Yangyang: Xuanling"
+          ],
+          "size": 45838,
+          "sizeFormatted": "44.76 KB",
+          "timestamp": 1787625006,
+          "modifiedAt": "2026-08-25T02:30:06.000Z"
+        }
+      ]
+    },
+    {
       "team": "Denia, Mornye, Qingxiao",
       "slug": "Denia_Mornye_Qingxiao",
       "members": [
@@ -192,7 +390,7 @@
         "Mornye",
         "Qingxiao"
       ],
-      "totalCodes": 1,
+      "totalCodes": 2,
       "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Denia_Mornye_Qingxiao.json",
       "codes": [
         {
@@ -213,6 +411,57 @@
           "sizeFormatted": "64.11 KB",
           "timestamp": 1787352088,
           "modifiedAt": "2026-08-21T22:41:28.000Z"
+        },
+        {
+          "filename": "Denia_Mornye_Qingxiao_钶镀_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Denia_Mornye_Qingxiao_%E9%92%B6%E9%95%80_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Denia_Mornye_Qingxiao_%E9%92%B6%E9%95%80_1.0.0.zip",
+          "name": "Denia_Mornye_Qingxiao",
+          "description": "队伍共鸣链与共鸣效率配置说明：\n\n\n配置条件：\n全员0命（清宵 0+1，达妮娅 0+0，莫宁 0+0）。\n\n\n效率面板：\n1. 莫宁：260.8%（佩戴《奇幻变奏》）\n2. 达妮娅：120.4%（佩戴《漪澜浮录》）\n3. 清宵：106.8%（佩戴专武）\n\n\n轴体说明：\n实测上述配置下运行顺畅。面板数值均为向上取值，本轴容错率较高，并非严苛卡冷却的极快轴。\n\n\n效率低于面板10%~20%时，只要不过低，仍可打出设计参照的完整循环。即便效率过低无法完成预设的完整流程，也能维持正常的基础循环，不会出现因缺少某个技能而卡轴或罚站的情况。更低效率极值未作测试。",
+          "author": "钶镀",
+          "version": "1.0.0",
+          "team": "Denia, Mornye, Qingxiao",
+          "members": [
+            "Denia",
+            "Mornye",
+            "Qingxiao"
+          ],
+          "size": 3823,
+          "sizeFormatted": "3.73 KB",
+          "timestamp": 1787755598,
+          "modifiedAt": "2026-08-26T14:46:38.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Galbrena, Qiuyuan, Shorekeeper",
+      "slug": "Galbrena_Qiuyuan_Shorekeeper",
+      "members": [
+        "Galbrena",
+        "Qiuyuan",
+        "Shorekeeper"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Galbrena_Qiuyuan_Shorekeeper.json",
+      "codes": [
+        {
+          "filename": "Galbrena_Qiuyuan_Shorekeeper_楽山_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Galbrena_Qiuyuan_Shorekeeper_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Galbrena_Qiuyuan_Shorekeeper_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "name": "Galbrena_Qiuyuan_Shorekeeper",
+          "description": "嘉仇守轮椅轴\n样本：01嘉贝01仇远11守\n共效：嘉贝130仇远135（轻云套）守270（共效仅供参考）\n位置：一号位嘉贝 二号位仇远 三号位守岸人\n实机已跑通 复现难度视BOSS而定 队伍容易被肘 选择开局boss时请多加斟酌",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Galbrena, Qiuyuan, Shorekeeper",
+          "members": [
+            "Galbrena",
+            "Qiuyuan",
+            "Shorekeeper"
+          ],
+          "size": 39447,
+          "sizeFormatted": "38.52 KB",
+          "timestamp": 1788528201,
+          "modifiedAt": "2026-09-04T13:23:21.000Z"
         }
       ]
     },
@@ -283,6 +532,134 @@
           "sizeFormatted": "21.11 KB",
           "timestamp": 1787153724,
           "modifiedAt": "2026-08-19T15:35:24.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Hiyuki, Lucilla, Verina",
+      "slug": "Hiyuki_Lucilla_Verina",
+      "members": [
+        "Hiyuki",
+        "Lucilla",
+        "Verina"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Hiyuki_Lucilla_Verina.json",
+      "codes": [
+        {
+          "filename": "Hiyuki_Lucilla_Verina_a38999_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hiyuki_Lucilla_Verina_a38999_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hiyuki_Lucilla_Verina_a38999_1.0.0.zip",
+          "name": "Hiyuki_Lucilla_Verina",
+          "description": "绯洛维25s4居合标准轴，开局需要切到维里奈\n\n绯雪共鸣效率需求120+，最好125+，无命座需求。\n洛瑟菈共鸣效率100，无命座需求。\n维里奈共鸣效率240+，需要有高精奇幻变奏或者2链。",
+          "author": "a38999",
+          "version": "1.0.0",
+          "team": "Hiyuki, Lucilla, Verina",
+          "members": [
+            "Hiyuki",
+            "Lucilla",
+            "Verina"
+          ],
+          "size": 16422,
+          "sizeFormatted": "16.04 KB",
+          "timestamp": 1787886161,
+          "modifiedAt": "2026-08-28T03:02:41.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Hiyuki, Lynae, Suisui",
+      "slug": "Hiyuki_Lynae_Suisui",
+      "members": [
+        "Hiyuki",
+        "Lynae",
+        "Suisui"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Hiyuki_Lynae_Suisui.json",
+      "codes": [
+        {
+          "filename": "Hiyuki_Lynae_Suisui_钶镀_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Hiyuki_Lynae_Suisui_%E9%92%B6%E9%95%80_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Hiyuki_Lynae_Suisui_%E9%92%B6%E9%95%80_1.0.0.zip",
+          "name": "Hiyuki_Lynae_Suisui",
+          "description": "队伍共鸣链与共鸣效率配置参数：\n【配置参数】\n绯雪：0+1（佩戴专武），共鸣效率 122.4%\n穗穗：0+1（佩戴专武），共鸣效率 297.8%\n琳奈：0+0（佩戴《相位涟漪》），共鸣效率 125.2%\n【轴体运行说明】\n上述效率面板实测运行顺畅，数值均为向上取值。\n轴体具备一定容错率，若效率低于当前面板，无法保证打出预设的完整流程循环。\n效率过低时仍可维持基础循环，不会引发技能冷却卡死或角色罚站。更低效率极值未作测试。",
+          "author": "钶镀",
+          "version": "1.0.0",
+          "team": "Hiyuki, Lynae, Suisui",
+          "members": [
+            "Hiyuki",
+            "Lynae",
+            "Suisui"
+          ],
+          "size": 5899,
+          "sizeFormatted": "5.76 KB",
+          "timestamp": 1787755655,
+          "modifiedAt": "2026-08-26T14:47:35.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Phoebe, Rover, Zani",
+      "slug": "Phoebe_Rover_Zani",
+      "members": [
+        "Phoebe",
+        "Rover",
+        "Zani"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Phoebe_Rover_Zani.json",
+      "codes": [
+        {
+          "filename": "Phoebe_Rover_Zani_EEEEEEEEdison_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Phoebe_Rover_Zani_EEEEEEEEdison_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Phoebe_Rover_Zani_EEEEEEEEdison_1.0.0.zip",
+          "name": "Phoebe_Rover_Zani",
+          "description": "菲比一号位开，赞菲光3终夜 建议用于暴打宝箱怪 赞妮0链最低效率不明，测试效率130%，菲比0链最低效率不明，测试效率128%，光主最低效率不明，测试效率149%",
+          "author": "EEEEEEEdison",
+          "version": "1.0.0",
+          "team": "Phoebe, Rover, Zani",
+          "members": [
+            "Phoebe",
+            "Rover",
+            "Zani"
+          ],
+          "size": 20330,
+          "sizeFormatted": "19.85 KB",
+          "timestamp": 1787888368,
+          "modifiedAt": "2026-08-28T03:39:28.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Qiuyuan, Shorekeeper, Sigrika",
+      "slug": "Qiuyuan_Shorekeeper_Sigrika",
+      "members": [
+        "Qiuyuan",
+        "Shorekeeper",
+        "Sigrika"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Qiuyuan_Shorekeeper_Sigrika.json",
+      "codes": [
+        {
+          "filename": "Qiuyuan_Shorekeeper_Sigrika_楽山_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Qiuyuan_Shorekeeper_Sigrika_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Qiuyuan_Shorekeeper_Sigrika_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "name": "Qiuyuan_Shorekeeper_Sigrika",
+          "description": "西仇守轮切轴\n一号位西格莉卡 二号位仇远 三号位守岸人\n样本01西格莉卡01仇远01守岸人\n西格莉卡150共效（理论上135即可）仇远130共效守岸人260共效\n测试已成功跑通，加装了保底机制，但由于角色机制问题，容易被肘击打断，在部分攻击欲望强的BOSS实战中容易爆轴，对空能力差，一旦BOSS起飞容易空A，请选择合适的BOSS使用。",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Qiuyuan, Shorekeeper, Sigrika",
+          "members": [
+            "Qiuyuan",
+            "Shorekeeper",
+            "Sigrika"
+          ],
+          "size": 49242,
+          "sizeFormatted": "48.09 KB",
+          "timestamp": 1787658159,
+          "modifiedAt": "2026-08-25T11:42:39.000Z"
         }
       ]
     }
